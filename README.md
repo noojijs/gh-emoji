@@ -1,5 +1,7 @@
 # gh-emoji
 
+## General
+
 :bowtie:
 :smile:
 :laughing:
@@ -193,7 +195,8 @@
 :rage4:
 :suspect:
 :trollface:
-Nature
+
+## Nature
 
 :sunny:
 :umbrella:
@@ -310,7 +313,8 @@ Nature
 :partly_sunny:
 :octocat:
 :squirrel:
-Objects
+
+## Objects
 
 :bamboo:
 :gift_heart:
@@ -572,7 +576,8 @@ Objects
 :eggplant:
 :tomato:
 :corn:
-Places
+
+##Places
 
 :house:
 :house_with_garden:
@@ -680,7 +685,8 @@ Places
 :gb:
 :uk:
 :de:
-Symbols
+
+## Symbols
 
 :one:
 :two:
